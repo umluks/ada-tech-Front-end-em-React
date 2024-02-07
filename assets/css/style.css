@@ -112,7 +112,6 @@ header nav .nav-hamburguer {
 }
 
 /* Section - menu-content-slide */
-
 section#main-content-slide {
   background-color: var(--black);
   padding: 80px 80px;
@@ -190,7 +189,6 @@ section#main-content-about p {
 }
 
 /* Section - main-content-project */
-
 section#main-content-project .content-project-title {
   margin-bottom: 20px;
   max-width: 1200px;
@@ -212,6 +210,7 @@ section#main-content-project .content-project .content-project-image {
   height: auto;
   overflow: hidden;
 }
+
 
 /* Section - main-hard-skills */
 
